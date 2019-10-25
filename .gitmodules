@@ -1,0 +1,6 @@
+[submodule "ev3dev-lang-cpp"]
+	path = ev3dev-lang-cpp
+	url = git@github.com:ddemidov/ev3dev-lang-cpp.git
+[submodule "googletest"]
+	path = googletest
+	url = git@github.com:google/googletest.git
