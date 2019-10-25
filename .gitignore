@@ -1,0 +1,9 @@
+*~
+/ev3dev-arm/
+/ev3dev-x64/
+/googletest-arm/
+/googletest-x64/
+_bin
+_obj
+_bin-arm
+_obj-arm
